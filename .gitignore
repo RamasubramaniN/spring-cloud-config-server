@@ -1,0 +1,5 @@
+/target/
+.classpath
+.settings/*
+id_rsa*
+.project
